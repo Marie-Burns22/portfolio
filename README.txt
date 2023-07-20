@@ -1,3 +1,10 @@
+This portfolio was initially created when I completed my Flatiron School bootcamp.
+It shows projects I created during the bootcamp as well as two small business websites
+I created between completing the bootcamp and starting my first role as a developer.
+The projects are no longer maintained, but the repositories are still in Github.
+I used an HTML template for the styling which is credited below.
+
+
 Solid State by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
